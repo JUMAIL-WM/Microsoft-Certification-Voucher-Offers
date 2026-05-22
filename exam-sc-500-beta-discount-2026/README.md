@@ -98,8 +98,8 @@ To receive the discount:
 
 | Resource | Link |
 |----------|------|
-| Exam registration | https://shorturl.at/WWgoZ |
-| Official documentation | https://shorturl.at/LGyaS |
+| Exam registration | https://learn.microsoft.com/en-us/credentials/certifications/cloud-and-ai-security-engineer-associate/?wt.mc_id=credentials_SC500_blog_wwl&practice-assessment-type=certification&wt.mc_id=studentamb_382047 |
+| Official documentation | https://techcommunity.microsoft.com/blog/skills-hub-blog/new-microsoft-certified-cloud-and-ai-security-engineer-associate-certification/4494117?wt.mc_id=studentamb_382047 |
 
 ## ✅ Step-by-Step Checklist
 
