@@ -4,8 +4,9 @@
 
 Be among the **first 300 people** to take **Exam SC-500 (beta)** on or before **June 8, 2026** and get **80% off** the exam price.
 
-[![Register Now](https://img.shields.io/badge/Register%20Now-Exam%20SC--500%20Beta-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://shorturl.at/WWgoZ)
-[![Official Docs](https://img.shields.io/badge/Official%20Docs-Microsoft%20Learn-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white)](https://shorturl.at/LGyaS)
+[Register Now](https://learn.microsoft.com/en-us/credentials/certifications/cloud-and-ai-security-engineer-associate/?wt.mc_id=credentials_SC500_blog_wwl&practice-assessment-type=certification&wt.mc_id=studentamb_382047)
+[Exam SC-500 Beta](https://learn.microsoft.com/en-us/credentials/certifications/cloud-and-ai-security-engineer-associate/?wt.mc_id=credentials_SC500_blog_wwl&practice-assessment-type=certification&wt.mc_id=studentamb_382047)
+[Official Docs](https://techcommunity.microsoft.com/blog/skills-hub-blog/new-microsoft-certified-cloud-and-ai-security-engineer-associate-certification/4494117?wt.mc_id=studentamb_382047)]
 
 ## 🎟️ Quick Summary
 
