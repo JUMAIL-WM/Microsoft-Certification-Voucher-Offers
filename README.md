@@ -3,14 +3,14 @@
 
 A curated list of opportunities to earn **free Microsoft Certification exam vouchers** through official Microsoft programs and events.
 
-> Maintained by **[Nisal Gunawardhana](https://github.com/nisalgunawardhana)**
+> Maintained by **[Mohammed Jumail](https://github.com/JUMAIL-WM)**
 
-[![Follow me on GitHub](https://img.shields.io/github/followers/nisalgunawardhana?label=Follow%20me%20on%20GitHub&style=social)](https://github.com/nisalgunawardhana)
-[![Star this repo](https://img.shields.io/github/stars/nisalgunawardhana/microsoft-certification-voucher-offers?label=Star%20this%20repo&style=social)](https://github.com/nisalgunawardhana/microsoft-certification-voucher-offers)
+[![Follow me on Linkedin](https://www.linkedin.com/in/jumail/)
+[![Star this repo](https://github.com/JUMAIL-WM/Microsoft-Certification-Voucher-Offers.git)
 
 ## ⭐ Support This Project
 
-If you find these offers useful, please **[star this repository](https://github.com/nisalgunawardhana/microsoft-certification-voucher-offers)** — it helps more people discover free Microsoft certification opportunities!
+If you find these offers useful, please **[star this repository](https://github.com/JUMAIL-WM/Microsoft-Certification-Voucher-Offers.git)** — it helps more people discover free Microsoft certification opportunities!
 
 ## 📋 Overview
 
@@ -45,14 +45,11 @@ This repository is an unofficial, community-maintained resource. Always verify o
 
 Follow me on social media for more sessions, tech tips, and giveaways:
 
-- [LinkedIn](https://www.linkedin.com/in/nisalgunawardhana/) — Professional updates and networking
-- [Twitter (X)](https://x.com/thenisals) — Insights and announcements
-- [Instagram](https://www.instagram.com/thenisals) — Behind-the-scenes and daily tips
-- [GitHub](https://github.com/nisalgunawardhana) — Repositories and project updates
-- [YouTube](https://www.youtube.com/channel/UCNP5-zR4mN6zkiJ9pVCM-1w) — Video tutorials and sessions
+- [LinkedIn](https://www.linkedin.com/in/jumail/) — Professional updates and networking
+- [Instagram](https://www.instagram.com/jumail.wm) — Behind-the-scenes and daily tips
+- [GitHub](https://github.com/JUMAIL-WM) — Repositories and project updates
+- [YouTube](https://www.youtube.com/@jumail2933) — Video tutorials and sessions
 
 Feel free to connect and stay updated!
-=======
-# Microsoft-Certification-Voucher-Offers
-Microsoft Certification exam offers - vouchers, beta exams, eligibility rules, and registration links. https://jumail-website-0039.vercel.app/
->>>>>>> 0d9cf4200da8be332efd41c65fa7a3c4b0dbd248
+
+
