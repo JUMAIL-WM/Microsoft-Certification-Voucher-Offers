@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Microsoft Certification Voucher Offers
 
 A curated list of opportunities to earn **free Microsoft Certification exam vouchers** through official Microsoft programs and events.
@@ -51,3 +52,7 @@ Follow me on social media for more sessions, tech tips, and giveaways:
 - [YouTube](https://www.youtube.com/channel/UCNP5-zR4mN6zkiJ9pVCM-1w) — Video tutorials and sessions
 
 Feel free to connect and stay updated!
+=======
+# Microsoft-Certification-Voucher-Offers
+Microsoft Certification exam offers - vouchers, beta exams, eligibility rules, and registration links. https://jumail-website-0039.vercel.app/
+>>>>>>> 0d9cf4200da8be332efd41c65fa7a3c4b0dbd248
