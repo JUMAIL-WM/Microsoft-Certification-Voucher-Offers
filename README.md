@@ -5,8 +5,8 @@ A curated list of opportunities to earn **free Microsoft Certification exam vouc
 
 > Maintained by **[Mohammed Jumail](https://github.com/JUMAIL-WM)**
 
-[![Follow me on Linkedin](https://www.linkedin.com/in/jumail/)
-[![Star this repo](https://github.com/JUMAIL-WM/Microsoft-Certification-Voucher-Offers.git)
+[Follow me on Linkedin](https://www.linkedin.com/in/jumail/)
+[Star this repo](https://github.com/JUMAIL-WM/Microsoft-Certification-Voucher-Offers.git)
 
 ## ⭐ Support This Project
 
