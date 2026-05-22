@@ -6,7 +6,7 @@ Be among the **first 300 people** to take **Exam SC-500 (beta)** on or before **
 
 [Register Now](https://learn.microsoft.com/en-us/credentials/certifications/cloud-and-ai-security-engineer-associate/?wt.mc_id=credentials_SC500_blog_wwl&practice-assessment-type=certification&wt.mc_id=studentamb_382047)
 [Exam SC-500 Beta](https://learn.microsoft.com/en-us/credentials/certifications/cloud-and-ai-security-engineer-associate/?wt.mc_id=credentials_SC500_blog_wwl&practice-assessment-type=certification&wt.mc_id=studentamb_382047)
-[Official Docs](https://techcommunity.microsoft.com/blog/skills-hub-blog/new-microsoft-certified-cloud-and-ai-security-engineer-associate-certification/4494117?wt.mc_id=studentamb_382047)]
+[Official Docs](https://techcommunity.microsoft.com/blog/skills-hub-blog/new-microsoft-certified-cloud-and-ai-security-engineer-associate-certification/4494117?wt.mc_id=studentamb_382047)
 
 ## 🎟️ Quick Summary
 
