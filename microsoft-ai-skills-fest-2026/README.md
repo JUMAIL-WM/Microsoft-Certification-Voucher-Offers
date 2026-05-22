@@ -4,7 +4,7 @@
 
 Complete one eligible Microsoft AI Skills Fest skilling playlist on AI Skills Navigator during the Active Period to earn a **free Microsoft Certification exam voucher** and a **digital badge**.
 
-[![Register Now](https://img.shields.io/badge/Register%20Now-AI%20Skills%20Navigator-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://shorturl.at/EbE8G)
+[![Register Now](https://aiskillsnavigator.microsoft.com/events/AISF2026?UTM_Source=AISF_Amp&UTM_Medium=Amp&UTM_Campaign=StudentAmbassador&wt.mc_id=studentamb_382047)
 
 ## 🗓️ Active Period
 
